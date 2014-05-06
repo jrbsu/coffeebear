@@ -1,4 +1,4 @@
-![CoffeeBear icon](https://raw.githubusercontent.com/jrbsu/coffeebear/master/coffeebear.png)
+![CoffeeBear icon](https://raw.githubusercontent.com/jrbsu/coffeebear/master/icons/coffeebear.png)
 ------
 #####Virtual salons, exclusive news content
 ####Designed in Aarhus, Denmark | [MediaHackDays](http://mediahackdays.com/)
