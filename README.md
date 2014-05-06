@@ -1,4 +1,11 @@
-CoffeeBear
-=========
+![CoffeeBear icon](https://raw.githubusercontent.com/jrbsu/coffeebear/master/coffeebear.png)
+------
+#####Virtual salons, exclusive news content
+####Designed in Aarhus, Denmark | [MediaHackDays](http://mediahackdays.com/)
 
-A bunch of stuff for <a href="http://mediahackdays.com/">MediaHackDays</a> in Aarhus, DK, May 2014.
+------
+
+####Team
+* [Morten Krogh](https://twitter.com/bokehmia)
+* [Christoffer Søndergaard](https://github.com/SirCAS)
+* [Joe Sutherland](https://github.com/jrbsu)
